@@ -110,6 +110,10 @@ This ensures consistent input and eliminates errors caused by invalid entries.
 
 ---
 
+## 📢 Acknowledgment
+
+This project was completed as part of Luke Barousse's free Excel course, which provided an excellent foundation in Excel data analysis and dashboard creation.
+
 ## Insights and Takeaways
 
 - Senior-level roles and specialized positions tend to command higher salaries.
