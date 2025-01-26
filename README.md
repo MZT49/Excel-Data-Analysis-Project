@@ -1,5 +1,5 @@
 # Excel-Data-Analysis-Project
-An Excel-based data analysis project completed from Luke Barousse's Excel course, showcasing practical data analysis and visualization skills.
+An Excel-based data analysis project completed from [Luke Barousse](https://github.com/LukeBarousse)'s Excel course, showcasing practical data analysis and visualization skills.
 # Excel Salary Dashboard
 
 ![Screenshot 2025-01-24 160130](https://github.com/user-attachments/assets/ae77c787-8d04-42bb-8842-9b7b4a2e216b)
@@ -127,4 +127,8 @@ This project was completed as part of Luke Barousse's free Excel course, which p
 This project allowed me to refine my Excel skills and apply them to solve real-world data analysis problems. It showcases my ability to handle data, draw meaningful insights, and present them in an accessible way.
 
 Feel free to check out the project and share your feedback. Connect with me on [**LinkedIn**](https://www.linkedin.com/in/maruffuzzman-tanvir) to discuss this project or any collaboration opportunities.
+
+## Contributors
+- [Maruffuzzman Tanvir](https://github.com/MZT49): Project Creator
+- [Luke Barousse](https://github.com/LukeBarousse): Course Instructor and Inspiration
 
