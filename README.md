@@ -10,7 +10,7 @@ This salary dashboard project is my customized take on the original project prov
 
 ### Dashboard File
 
-My final dashboard file: [**Excel\_Data\_Analysis\_Project.xlsx**](Excel_Data_Analysis_Project.xlsx).
+My final dashboard file: [**Excel_Data_Analysis_Project.xlsx.xlsx**](Excel_Data_Analysis_Project.xlsx.xlsx).
 
 ---
 
